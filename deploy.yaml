@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myproject2
-        image: ritussharma/project2
+        image: ritussharma/website
         ports:
         - containerPort: 80
